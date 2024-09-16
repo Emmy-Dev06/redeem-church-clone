@@ -1,0 +1,44 @@
+.navbar-bar .nav-items nav-link:hover {
+	background-color: #fff;
+	color: yellow !important;
+	border-radius: 5px;
+	padding: 5px !important;
+
+}
+
+.carousel-caption h1 {
+	color: white;
+	font-size: 3rem;
+	font-weight: bolder;
+	top: 50%;
+	font-family: "oroboto";
+	text-transform: uppercase;
+	border-radius: 50px;
+}
+
+.flyer {
+	border-radius: 10px !important;
+}
+
+.card-img {
+	background-image: url(../media/images/slider/rccg%20prayers.webp);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	border-radius: 10px;
+}
+
+.icons a {
+	font-size: 32px !important;
+	margin-right: 30px;
+	background-color: #fff !important;
+	color: #000 !important;
+	padding: 0 5px;
+	border-radius: 5px !important;
+}
+
+.icons a:hover {
+	background-color: yellow !important;
+	padding: 0 5px;
+	border-radius: 5px !important;
+}

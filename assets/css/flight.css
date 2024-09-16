@@ -1,0 +1,60 @@
+.icons a {
+    font-size: 32px !important;
+    margin-right: 30px;
+    background-color: #fff !important;
+    color: #000 !important;
+    padding: 0 5px;
+    border-radius: 5px !important;
+}
+
+.icons a:hover {
+    background-color: blue !important;
+    padding: 0 5px;
+    border-radius: 5px !important;
+}
+
+.narbar-bar .nar-items {
+    font-size: 18px;
+    margin-right: 24px;
+    font-weight: bold;
+    font-family: serif;
+}
+
+.narbar-bar .nar-items a:hover {
+    background-color: #fff;
+    color: blue !important;
+    border-radius: 5px;
+    padding: 5px !important;
+
+}
+
+.carousel-caption {
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+    top: 40%;
+    font-family: "oroboto";
+    text-transform: uppercase;
+}
+
+.carousel-caption p {
+    font-family: "oroboto";
+    text-transform: lowercase;
+    font-size: 24px;
+}
+
+.nav-foot li {
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    list-style-type: square;
+
+}
+
+
+.nav-foot a:hover {
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+}
